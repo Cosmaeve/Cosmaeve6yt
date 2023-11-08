@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Hart",
+  "age": 47,
+  "address": {
+    "street": "Juces Manor",
+    "city": "Gesolag",
+    "state": "PA",
+    "zip": "65719"
+  },
+  "contact": {
+    "phone": "(733) 723-9616",
+    "servicePhone": "800848113"
+  },
+  "birthday": "1979-11-27T01:46:31.282Z",
+  "ip": "183.223.142.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Wipir ari kulole rufadbon sum ozjaba hepeuci iprabge vopeh jopag rutloz nahozi. Zaw oneaweaf it abev der okedi uf wavalsut gel ra raweco uguhfa abeco. Zajsuzo silvevnab ek avdep howeras lizzu ve remo jedki rocciv jedi lusnofi ruat zu.",
+    "bio": "Koniffud loj liggojsum luwupo ufupar jozfon zouk umre vudtelco ofniwa vifaur javegme tartome su jazpuc. Ecubohu mo holtoc res ti nu ama feluw baloke cot ciivani jiic roesi mel camfiane lojakkej fufejce vofogi. Enupageg wivcufzo cecsupif melkardo wawhekoda cimepaz fejahto tojme fegzo ubdahtoh ne vusme zetsiwmuj. Uj viwuh fulemji new le boraji foomci wem baz ulpewo gehsar otwojuh tifreag wuli. Cob we muc aji zanko tomod va cir luzabat ji ke jifladgem sovo pemza riheka. Kenu do fez re luvmo kaden nepsa ri fazhu mifukav zumdosju ralebdu. Wiheste ahkov ufagop jo be notdi vigi manavor ewileabo aromofe heb peigos wovo ho."
+  },
+  "apiKey": "6d3fdbae8aa06a86e84fd05224938e5f2fb136367245c72f6cc8fb592d16674b",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
