@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Wilkins",
+  "age": 38,
+  "address": {
+    "street": "Cajog Drive",
+    "city": "Ropuduri",
+    "state": "NH",
+    "zip": "53727"
+  },
+  "contact": {
+    "phone": "(255) 908-5264",
+    "servicePhone": "800975683"
+  },
+  "birthday": "1980-10-13T10:43:08.580Z",
+  "ip": "114.119.23.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Pahsermuh suvocif uhrud polu kuc esa pazpocso emuseki jefke cuj lolis bavifu so oskatgu johbelac. Zot hozuh jigafu ge murtin worlep fohzenpu jire sef ko katguvew nojar som jig ca zonimmo osuve zaddodkig. Pihdiwe gatzehij fuk jezabcuf mefem luta lezhovgi gedozoah se mitbor kuwfilin fog kat fipovalu ikikiz. Gahli cafepaso ja noplubku lurac tevot pec gehtemgun hirumo zo no asigsi asuwoure cugaoh.",
+    "bio": "Acbazug epuipiha zusmovow kirbanpev iggezjen pahun ire as ojruuni vorehzom iga fomohjo nomjebjos wip mul. Kirenuwi fekel pu zale buh lubowitut nefuh uhu titkotje dafoma zeniski jodjud cipal. Jedis diw ge wufun kan zaohedep najegev uszupuk zi bu du lu bariri. Saolabu opji epocir ikeol nuzetvav begtesus ito isugu sikab zehak una gunmubo anoosapil. De ha wizpefbi fuenfi ju rosab ve jeklil povvofip nobo bazerag komdow."
+  },
+  "apiKey": "e6f1a23812cb21c63e052af44a41555d7b59985cbee7c9b27e108973a4a80453",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
