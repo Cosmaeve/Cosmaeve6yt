@@ -1,0 +1,26 @@
+{
+  "name": "Ola Ramirez",
+  "age": 36,
+  "address": {
+    "street": "Ulocop Ridge",
+    "city": "Zitduba",
+    "state": "NY",
+    "zip": "68931"
+  },
+  "contact": {
+    "phone": "(724) 212-1665",
+    "servicePhone": "800586392"
+  },
+  "birthday": "1984-02-22T18:07:41.039Z",
+  "ip": "195.137.178.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Kekiah cazziw kocgogzi wene kabwites fe virfukves od di uvja abebubese vinuj muhe dum ces ete detpu hapuj. Seg gubid becvo ji ameho go sozgip gijeupi cepura jic zug lulla nuze kep fif aznezaz odopig cu. Wisar go toaso ti epo zervigwiw ivi lozun ab jukok vovo lan fauj zajoj uzazaja apa ki norozueco.",
+    "bio": "Jev fov job ofijobag lu fu le boti kavguw kulnepu biof izzis coga ce vinsodfek kignubol tak. Iwe tab ve ubi arcew vazocwul zubogcet vuf ewpotbod roj juros tu lu. Cuzoman jate ragaji nag pohlowduj zetlucuh pu badog uzepugin ciigi matju fas juulu hid ufa goruk."
+  },
+  "apiKey": "de6f4ed03f3e4660800ab5fcb7ec48b0c248fe2864addca3d6f9ec316c44a389",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
