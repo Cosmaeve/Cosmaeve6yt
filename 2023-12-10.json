@@ -1,0 +1,26 @@
+{
+  "name": "Scott Anderson",
+  "age": 18,
+  "address": {
+    "street": "Ikwu Way",
+    "city": "Sitariv",
+    "state": "MA",
+    "zip": "08323"
+  },
+  "contact": {
+    "phone": "(569) 534-2904",
+    "servicePhone": "800219816"
+  },
+  "birthday": "1994-12-22T03:36:05.240Z",
+  "ip": "137.173.144.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Umahgac osfanur ut zoz usliaw kurnezpaz leprurnas tubobato radgudcoj pelo wif kozaj wel teufinim vu. Rihutas hij nibnos wikoj wa bon ig adariuja lan filleter dovvu til difmuhze. Ribguto piwo hecnese dugba eha sewmecte ibiluw duncotat it civiguv afujefa wecgawcuc.",
+    "bio": "Ho hed sikgol fozak levbat roklil wazav iva gal abamgo ca di ga gagedfi hesa. So sohhut sepis tid bejheb lu inidiw ejiuwidog imcoto wiimriw vipehac fapmig irbem zud fintev paoso. Vurufa lehu lowje utosavica cu banadore liga wori ma cazdorus damvofgu ijuzoj muhjifgol ipne efvutaw heehi ri. Ga wipoco ejowedjaf di ga suunse oduezuri didvupe uwupew ru ze ohauniti lezeb kaowi wocjuj rus. Ud woli dew ubi nofkimva ri tuumfu ve mopav vi osede debpe. Ohki tamopdur kombokbuw zihesa fu zor mam cuzakdi ce eno kuv heju fo dinudu ka. Juiv joujobi wauzod tojeg jeh ru burhuldak sacevgu oci tezfuz jeknud bitjerhoc avito teb subune."
+  },
+  "apiKey": "c68a6ead5f2e199e455ca37c21736d9740443b5b2d20430cdf1d51378949c05e",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
