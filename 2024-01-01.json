@@ -1,0 +1,26 @@
+{
+  "name": "Anne Parker",
+  "age": 40,
+  "address": {
+    "street": "Lolej Square",
+    "city": "Nabicav",
+    "state": "VA",
+    "zip": "08846"
+  },
+  "contact": {
+    "phone": "(840) 681-9356",
+    "servicePhone": "800656585"
+  },
+  "birthday": "1979-09-18T10:30:10.393Z",
+  "ip": "179.129.252.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze jaaseom zu casid bier bum gib pam liged dozmak jouh werupu dekzafi so. One lewucfu ebamifad seshufjat kil telafew su rualeje zokboeh halu kunkeora duljuk cop ta cotivuja fez. Azokunob inuaga ga celjoc lusis ge wubecji zivig rezdowu gectuh zusvujhi fiwimuz. Bumew ceohore wof wuwe hafaj de pufvig tanpe tisreb kusitro fuva ketibwe imti olu ji jo. Ilkiweto turcatoso pir gacjesaho wad pi hasiz icouwarok vuh himima alafidmap loutoaze wuhmenrof dokrozu ema cos sacbu vif. Jiocesa vunaz hiditic sipowbi dosnu kifmudiwo nirocit jandinipe radinse docupca huuhi tajilha ahozo me hinisolud dehnec ik. Div gufi row sotfef pobu hatmu ehe nedison vit apvez koazi wasmutzu lukog foh gi usizuc viame mu.",
+    "bio": "Dom jucor muh winefe gunro wonoiro vofeuri du wa gap waveg soceb kaf. Ro siw rokevnap alaretehe bipja hepgauv ujuge foesocep buuca roba nadonizi voevsu jiticid cotet la gesoj te. Romig vuhas vucdonet jawgospor fab mo meaz coof nu ra foileki uv we."
+  },
+  "apiKey": "9c813a22b59829c042dc3448817cc63b78df85b085f0c830a530aff136f518ed",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
