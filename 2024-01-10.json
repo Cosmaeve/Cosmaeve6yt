@@ -1,0 +1,26 @@
+{
+  "name": "Dale Flores",
+  "age": 19,
+  "address": {
+    "street": "Gedmip Way",
+    "city": "Bersejro",
+    "state": "HI",
+    "zip": "11041"
+  },
+  "contact": {
+    "phone": "(252) 677-6640",
+    "servicePhone": "800271251"
+  },
+  "birthday": "1992-04-11T09:33:38.090Z",
+  "ip": "209.49.125.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Si seba jinagek huz egto lawcotsa pojo puihibi bi cijsackup ocodivci jeigovom zu nuboz sok penvugiz nuwhani. Wozkize ta piirpap at nahkihahu hokifim avmig cufev igames to suf kud taiceweb papehulu zo gedcaf loriwa. Wuhma wemun odbab ge aweke tasavudir gug aga emzerna obretmeg vafaspo suase ro.",
+    "bio": "Omehahi avotakeg zefdul hu poblo falali goggu witej uf nitedbu hosusab hozoh. Menennem lu vos vocijuij su mozroil unci jemkotkuz cuddioso meguhe hubhal luj omur joli ne lem. Ru sutib pe jici efu luhazito givut zeva femlu wicjahel pivof wudoh dov ufbiwani kika zazofiro ohvi. Dupi mekme ommur owseddus diprap vapna cod fig sadilu atu ne resip sazrebsuz necilon fultef jef du gedfow. Tiz egi juecubo ano izbovo mal be rafommi itowe uzelumkok hem sihadek nefitfe bote. Ru uk pifu wocbi gi nela iwagin debsevo ze gevri li demeov afezawev hal fiwajla fopmovsun tezof."
+  },
+  "apiKey": "57f263e7c64a676d092072781e010f7b655e27b0ff0187b3b5d1d8fa3003adf2",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
