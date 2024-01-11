@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Glover",
+  "age": 26,
+  "address": {
+    "street": "Rokna Path",
+    "city": "Jaodcev",
+    "state": "CA",
+    "zip": "75700"
+  },
+  "contact": {
+    "phone": "(410) 278-5841",
+    "servicePhone": "800315125"
+  },
+  "birthday": "2004-08-17T13:53:45.575Z",
+  "ip": "156.26.173.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa tuk sis tonameg vab jobkudna apzaihu amavatap bijor rihis owakulda wepwomem puc zuvopa kilenipu nib figor. Pinpiz geh lopovfe ru pewofhe afusoco an lehzok nusu vuovaina com zot wus soehepu cakejisu me howzopim. Gagdib dusuhu luig ibluni pat dev joreg ahiebhe egabok zov hivacoip ri asi zowol caklok ze duv cosulde. Ta pufsu nefweazo mowefav kaspozer gajasi hus puuhato tol adkebuk cuabi ateupalil egto jes. Wosviro etsi gilah dik goata ugisizcu fanossub saducob imuledi noafali setog boj ti dukoru. Sinepa joc cehgagsa so nueg cafizeh hus kaszir ju logki zohjijeb cazavi. Nujvuek abipab doh deze cewhokfeb ko le dohemibo bapewfu oha cehugpe lom sus luzewzit.",
+    "bio": "Ultidzi upovlug cun udopasfa ujbo cob howuk ovedewsat bevoda cukvece mavpin cu ja mum ehzi tu rule. Ukopaggu hu gorid bezwuhic ebeef kuebcon tijlic gel dof hu zuwu ciwic unafinak. Muvaseik tuc it igecwu so surdamaz zu ridwor mugrehke gabnavip re uj tauvhok ja volta. Umomo ho duhuse ineupo vora se sova majahda bu oki zupe ni bopgoozo ade wouziojo kowlucu. Low godupu vupsoswu ruplum da bulunufu eza ew ta fewe rempommil vovsak ufeter zi ol baufku nicsoduw."
+  },
+  "apiKey": "aae027afb8df169ffc4d720605572db06e74c5cc6517861c1d77039516b19d90",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
