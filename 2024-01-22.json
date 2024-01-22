@@ -1,0 +1,26 @@
+{
+  "name": "Hester McGuire",
+  "age": 18,
+  "address": {
+    "street": "Hugu Boulevard",
+    "city": "Apdipze",
+    "state": "CO",
+    "zip": "35019"
+  },
+  "contact": {
+    "phone": "(729) 448-6501",
+    "servicePhone": "800196246"
+  },
+  "birthday": "1963-05-05T08:07:39.812Z",
+  "ip": "175.82.137.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ut hoimgi bevhap jolsac otaot doinuaca ma devetlu be ruvpo ebedeul fejduus ujradu zidubo dizmita. We tozpovo loiv opa uzacuwa hefugfag gij uhela siricet ecusuze wu ap. Rucga alaske fo mife zeka nodon ba necad vatal gep ha abi. Gesjici widgowic miwhuzow tew neklurze wagow ti iwe jibmi ec taceap ud vefurit jujru golzazle toso sazi gajud. Birob ji luv ja jo pe jop nufbo voceju wugadkag ti kiz navatkaf tamulre ubouw rahbavew. Vavedco pah nez lotami guslas abebez om jehol aw ob lonkib ejiltem. Nilru laju sola mompeniz getusmiz iba ojo az cem cu wi bo buco heimeho va maado ritkapu ul.",
+    "bio": "Lo avonemeno vekbivhak rutmisan ohgi rudler iwami urzud zuhiz kosekad apotur otozaed ge. Nozedid fohej hefnev ruho ruhor nuhiwe lumwofe ev gut hij zah honez wataze dolav rosrufi hal geh. Puvuk la okbu kozu espo roru ezinabu cibiari pu itmo azu gud ag ti izve na. Aj taezjum ditop huge jebuv toppav pa nufho lufjige umowiim pato ceboz mawavwe le zob uw maro namjoz. Le cuarunoh anhachuv uniwem kud olanjoc toamuoge dawritec ig su ujobifdaz jahbet atluzca bukfomhi hiszi kim gumlapluh sumup. Re zatagado okcu bokalo wowo maveviwi lo ulovu gate adahimab da is aha zone."
+  },
+  "apiKey": "f3b3e9ca43067be6277f2837e1d056b3f26a29cb50bd0a29598281f18b004391",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
