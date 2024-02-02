@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Harmon",
+  "age": 32,
+  "address": {
+    "street": "Nikis Street",
+    "city": "Viferas",
+    "state": "CA",
+    "zip": "98386"
+  },
+  "contact": {
+    "phone": "(407) 664-6959",
+    "servicePhone": "800725641"
+  },
+  "birthday": "2006-08-18T22:48:42.997Z",
+  "ip": "22.48.142.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Bacifni si fikevopi jo maneh mighemzo ozmadur nigmumsu ki upnik lu cokzuf eheboga nezmo. Hivak revzotbo afisis adoafi wa inu sal miheegi azra nuwvo nefdot sahoeri fuzezilos cupa poozeom udo. Cunjob powal ac owapak vef werecgat ec raab fumzoda ofaziifi uvno dobav wog maupwu feda gos or lanjufnub.",
+    "bio": "Wi kakipa hoanede okuefeni nomov fabdiddo ta uk inu habo mebiz keszevik degud uvmeoz nala soctiva. Hepop at pefug elnu emukit je mah zeohniw fiut ocifud kodov asipar joc we mabgekjo rafizo ire fefotud. Tube wesnuklew zihosup uwdof ijle nusjes vu bepelfub jep cipbaupu ruvcuz zimur ekekujoc leuz hafmifcic muzezjic bo dicki."
+  },
+  "apiKey": "e0a8143f1e7207b27636e7bd1a7155b812c0834e65ecee36b8060f939755f2c7",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
