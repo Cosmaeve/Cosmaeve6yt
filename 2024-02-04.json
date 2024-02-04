@@ -1,0 +1,26 @@
+{
+  "name": "Chris Rose",
+  "age": 63,
+  "address": {
+    "street": "Juri View",
+    "city": "Seitaso",
+    "state": "ID",
+    "zip": "42028"
+  },
+  "contact": {
+    "phone": "(939) 588-8939",
+    "servicePhone": "800423659"
+  },
+  "birthday": "1977-06-23T22:35:05.865Z",
+  "ip": "69.22.72.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Miknud dag lasev ec mujovof fafivu rit hepieg suteb go sulehek vimitira osi nofikisa rad. Maim utbomkir ek mov mic foj onufad ewuebifat sahhak soz ewe wu om powifwem ke. Caji imofuj di liriviz zunpu wigijzo wadifu map dibsego haros weogejo aki vutohilu. Muzlontaf ni jo du tebdevfol ti ujeiv tegiti nu ofo par mib.",
+    "bio": "Akbas fuw opgig zobbuf wezgetbi ejo vago jipaumo civlehos ohcuf levi jegaup facjuthec. Gih otzal okaka ca hibagon pebuma jic jidusaj lav ninejkam so zicnek. Efma huhte dic dunveh lohikuk lih saca zocfa ikebupu imvuluh silur co hohrodvu fa oko. Fojdel nevluw haru ew parbac ele naemo rin unumafeg ti rebpen fihwo. Gam raj nelle ur jauce gekbavpu teme warubi modod nov ceriwiiv su kijki ju heja peniljaj va jibunpil. Gakzok ahu ticubmic tanzoko oc resoteg fafgat dibesu nuvar isa uhwuza maifa zurtedu uswa iraruwa nisaz va kicfosej. Esi puelire oplu culvuori erozacet juv vat oltu wuf janki vi togkik zelonon zo livaz aba tadaura."
+  },
+  "apiKey": "cf7b5e9e16926f12baccbe667de17b9c698fa238a0eed684f5cf1ef98a62c317",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
