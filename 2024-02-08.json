@@ -1,0 +1,26 @@
+{
+  "name": "Susan Berry",
+  "age": 25,
+  "address": {
+    "street": "Vekpi Pass",
+    "city": "Hufizli",
+    "state": "NC",
+    "zip": "04552"
+  },
+  "contact": {
+    "phone": "(519) 922-8012",
+    "servicePhone": "800468221"
+  },
+  "birthday": "1992-08-03T04:35:05.331Z",
+  "ip": "26.244.179.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Reofehi uz ep cebe wo ku tejos ujkuevu dedu tenreg kajawe vudazuk ic kuizecop maralur. Vavdi imani va zu lug limowje miitjo va worwe hummar comuwbe wizoleke kutehhip hel. Gopzebo runjo azda ne sebwih eki ice jo ekgidoj kica caekbaj oletaf obi vap zi zagat ho. Fofud icbi sekbace tilcawbi uhezunri ge wof ar zegevu cirrar ka ju isati.",
+    "bio": "Civiluzi luv ze vis koope keju wov tallegjo baeruhod ha nis anoufibu. Zapro tigudvo pur sefrig utu suvwid juj bu gumazij umuel nagpav jawwiher. Kuk tec ava bevtomgad sesle fenilvu kitce rucbicak juh biweleh wuro mahpawpoh koz. Hemu ce ran zaguna eco vumkuafu wedna zarva fatoso dibub uf ve bup de zulup sidpadwi. Je tojwok mehsizuco ci jijcijnan mu wegis kitav wazec soplog jojpa ratutope obitag ma fivgifhi kobjurol uwu osbizevu. Di buwu voeseil bari nij wicez li welori uc woncu ze osbozgo dah nohek."
+  },
+  "apiKey": "1d84c69890f341f6b47b322ef16d5c454eeb64b2855b9d0cfef68793d91558c4",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
