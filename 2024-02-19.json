@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Simpson",
+  "age": 33,
+  "address": {
+    "street": "Goigu Mill",
+    "city": "Ferlakoc",
+    "state": "AR",
+    "zip": "32130"
+  },
+  "contact": {
+    "phone": "(786) 712-2310",
+    "servicePhone": "800764438"
+  },
+  "birthday": "1980-05-01T00:08:50.838Z",
+  "ip": "184.137.141.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Kacuzib atigidlof luvceini wa hoisme nosbojhev abusak elfocite otbu gibijve mubdav eh. Hecmut rigvetzo focul ne oh zadisudaz hejlan nizcib luejfi biwpiigi orugo dirab ardaluj. Eluk get om kus rujis tavgipa onzi muw pifpujzil bih harpikof nujif. Viwsu inoatasof uvufi ajirav pebuzeb iw uv zu og zacfek izosi leuwlo fi wemez.",
+    "bio": "Kepdi us lu hik neb oze pu voh ejutfek bo ta doet. Ki funwi dalpi coz vesmuj wup dawucjo cudsomso ibce foje ziohuwi gohsa moz laca difjimut zimpaowe. Tiwgali zumovig kovomo butun ek osoah guzekuwi hin vo wihhiode jazhodad med pep figlaw."
+  },
+  "apiKey": "8120efe8a56e75b3aef0c6dfcf72b5c9e2d53ec6d23483d7b79dec339cb9161f",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
