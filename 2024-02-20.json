@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Rice",
+  "age": 23,
+  "address": {
+    "street": "Tiuno Glen",
+    "city": "Cuklabo",
+    "state": "ME",
+    "zip": "73911"
+  },
+  "contact": {
+    "phone": "(814) 786-7019",
+    "servicePhone": "800416554"
+  },
+  "birthday": "2002-09-19T09:23:05.894Z",
+  "ip": "48.111.38.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Ah mariw bujopasal rasi rekaj ne enoribko cususbem boz gotu pohpetab huwcas besi. Ti ocapuk pesabiw zafuclim obekiawu uso ovagivi remlapses zeheefi hu sete ruoca bipire recatlo. Cetko enfonubo bepe lof vezbaklev lepmat watguc javit jore ligem titibiz at rer vom lugizbe himcepgol. Biocago ahfa hi ermo mit seul wilma na gam ado diskid bigni bopevwe tab. Kab bebepevu reodubi kolar bidep ho suife lob gon siisu mupenni kiphis. Beb gov ocot be lakiha itu vegmac kaomo bopze owpog co vulafes rod wir.",
+    "bio": "Pib lopoggoh wanwog ro vogoku fazhitil ilamu ca lol neglekoki pen er uzog. Urapuke souweje viwer du cow ka mofauja tebto ul ker cutifdot tikon noteni. Hac ew pap cig rok pobca lokfin to tumifgom ew eledaki bitapu todbupne la hibeub gizu avhosed. Ecoti jocucka ozuresi fubcafan po tikikesu wokdad gafsedce jouca zalah fazicu cehad unita."
+  },
+  "apiKey": "54c0fd24445c7c59e4c31bcf8323bfea0c37477549f7c919d30d9b71d426a694",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
