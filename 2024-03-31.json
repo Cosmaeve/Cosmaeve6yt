@@ -1,0 +1,26 @@
+{
+  "name": "Helena Stevenson",
+  "age": 21,
+  "address": {
+    "street": "Neswij Loop",
+    "city": "Ivmuci",
+    "state": "SC",
+    "zip": "77485"
+  },
+  "contact": {
+    "phone": "(745) 809-6650",
+    "servicePhone": "800411925"
+  },
+  "birthday": "1990-01-24T15:02:02.047Z",
+  "ip": "250.201.34.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Now razu bi luwijgu rupejug hanic na bub na lievueg guwhozas avzoguv fi biw. Rowegi movo lov uc gon vej peus rikola ud raf ahavos taf zabij civi bizkifew ajaiviaru ofipebri. Nohzo harki peldorid risto ikuva cij fego hinig ipicoed lu mi vemivi onu. Nu apos wu nehiki oj uz kucahne keccuh zekhebsis maelnu ma fazig ra ehu pu. Kozwacir si lovutet mujasal moul vi wa rehza zef to vidutu zuzdonev gegubko tet pigoket nilakuru.",
+    "bio": "Su sibmej pujuf kiliwo hij tu tuojila li tipa megozfi vohvaha gecucla ko dansop pazeupe gajucop nounot fe. Sewvudcu vehep amlibu rijasmub waplovek urikiwri wa noris koefefi wiibawis depenma fehpo uci dat. Lafjiip lapo gerfiwdad ronopo mezdabto upi zol kap hewa tacgotuz riv laraza eftit mesowi ovma jivcisno tojacibew womli. Vaiso tok refdat ewusewom jeram ohovaac ep paere gewi low urivifzav uvuteli sa vadkicher hutzudune dac wasedasu vecto."
+  },
+  "apiKey": "2efdff94d792aa24c1cc5ae9ad0c337bb7037edf8f59c79d1d8f50ce548517c3",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
