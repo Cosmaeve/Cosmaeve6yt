@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Bailey",
+  "age": 32,
+  "address": {
+    "street": "Haned Glen",
+    "city": "Cubmiboci",
+    "state": "PA",
+    "zip": "46030"
+  },
+  "contact": {
+    "phone": "(981) 219-7359",
+    "servicePhone": "800853288"
+  },
+  "birthday": "1962-01-17T17:05:09.275Z",
+  "ip": "131.213.208.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Sa nuz am safetmun baske zuhija gottotda dah vi diwveos hatacwu fad ow. Kojpobu om ku anaca waj vo se jector uhehow kojfup pipozve uba nigduhde us bifiho on. Wegni gul tag absiabo wan mi ra eludal re civobi juz ura vukol denepnu. Bi mimmus eweruhni lesgu jarug fi nim renosaw winet popruuh boiz mer so lar pe ver. Ke caf ap dowdoljon itco hamohip iwisiwi vonke kagbebi rovetir rooti dakhaafa zuzu per.",
+    "bio": "Opi ce ci ilzow watu jazdil wudfifzav hoho tofi mom ci rael luruka livulzu uz. Dim fokrofar warpumhad soewuoro novo cuhwupan lut ih dar vuca sizti holuduw kilbuc tice ri jijeobe gelwa pozfaz. Jeci mocahin du je uzdov irvic iginuru bawgugoz jana wobe hibti nenuohi. Nud bi owwij ba rigriw ozuvo lenmaf hukuz vi uh juh zewetah akilot rimhi nawdunev oku ramad ida. Zadwizwe cigziza cin pukawaze gi fumeige zipegib epa vefjiren er unmisne dabi ritjuvu ge migkoik."
+  },
+  "apiKey": "43935a65d58e1987b17d21fdf61dd5bda3228df14545e16658d845758233664f",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
